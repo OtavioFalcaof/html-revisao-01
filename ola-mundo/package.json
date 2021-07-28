@@ -1,0 +1,11 @@
+{
+  "name": "ola-mundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+  
+  },
+  "author": "otavio",
+  "license": "ISC"
+}
